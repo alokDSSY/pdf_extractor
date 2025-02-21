@@ -1,0 +1,4 @@
+pypdf
+PyMuPDF
+pandas
+Pillow
